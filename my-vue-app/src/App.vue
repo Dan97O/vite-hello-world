@@ -12,5 +12,8 @@ export default {
   <h1>{{ message }}</h1>
 </template>
 
-<style >
+<style>
+h1{
+color: rgb(0, 204, 255)
+}
 </style>
